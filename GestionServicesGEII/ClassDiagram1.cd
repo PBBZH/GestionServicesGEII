@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GestionServicesGEII.DialogueServiceGEII" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ESIWAf3ZkKtYCTXdkIXCgxDHBue83YgscYREKgCkIHo=</HashCode>
+      <FileName>DialogueServiceGEII.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.ConfigurationEffectifs" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QhAAAAAQAqgAQlAAQACFAAACAoCjCgAACAIAAgIBACA=</HashCode>
+      <FileName>Librairie_GEII\ConfigurationDesEffectics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.PasserelleBdD_vers_Excel" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAQAAAUAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PasserelleBdD_vers_Excel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Program" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Librairie_BaseDeDonnées.ClasseBaseDeDonnées" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAgASAAAAAEABBAAAAEAAAATAAgACBAAAAAEAA=</HashCode>
+      <FileName>Librairie_BaseDeDonnées\ClasseBaseDeDonnées.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GestionServicesGEII.Librairie_GEII.Promotion" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAQAAAAAQAAAAEBAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Librairie_GEII\FormationGEII.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Librairie_GEII.Formation" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAAEAAIAAAACAAAAAAAAAAAAQAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Librairie_GEII\FormationGEII.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Librairie_GEII.FormationGEII" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>Librairie_GEII\FormationGEII.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Librairie_GEII.ServiceGeii" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQEgEMDBQJAgZMAAIAAAAEAEAAAgJCAI4IACiEEEAg=</HashCode>
+      <FileName>Librairie_GEII\ServiceGeii.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Librairie_Générique.ClasseGénérique" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAAAAA=</HashCode>
+      <FileName>Librairie_Générique\ClasseGénérique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Librairie_Registre.FichierRegistre" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAgAEAAEABAAAAEACA=</HashCode>
+      <FileName>Librairie_Registre\FichierConfiguration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utility.ModifyRegistry.ModificationDuRegistre" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACQAAAAACAAAABQAAACAAAAAhCAAQAABAEA=</HashCode>
+      <FileName>Librairie_Registre\ModificationDuRegistre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Properties.Resources" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Properties.Settings" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestionServicesGEII.Librairie_Fichier.ClasseExcel" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggAQAMIAEQACEAAAAgBAAEQgAAAAQEAIAAABAIARA=</HashCode>
+      <FileName>Librairie_Fichier\ClasseExcel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
